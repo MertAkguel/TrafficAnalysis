@@ -1,5 +1,4 @@
 import cv2
-import numpy as np
 
 
 def create_video_writer(video_cap, output_filename):
